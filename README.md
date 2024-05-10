@@ -1,9 +1,5 @@
-
-###  DATE: 
-###  NAME:RAJKIRAN.J 
-###  ROLL NO :212222043006
-###  DEPARTMENT: CSE
-
+# NAME:RAJKIRAN.J
+# REGNO:212222043006
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
